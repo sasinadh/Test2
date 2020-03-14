@@ -1,6 +1,4 @@
- hi divya  
 
-<<<<<<< HEAD
 
 this is sasi
 
@@ -9,6 +7,3 @@ this is sri
 
 
 git hello
-=======
-this is sasi
->>>>>>> parent of e21525c... dont save
